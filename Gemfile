@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
-ruby '2.2.0'
+ruby '2.3.0'
 
-gem 'rails', '~> 4.1.9'
+gem 'rails', '~> 4.2.5'
 gem 'pg', '~> 0.17.1'
+
+gem 'responders', '~> 2.0'
 
 gem 'bootstrap-sass', '~> 3.1.1'
 gem 'bootstrap3-datetimepicker-rails', '~> 3.0.0'

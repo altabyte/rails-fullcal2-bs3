@@ -20,3 +20,5 @@ config/secrets.yml
 tmp
 log/*.log
 public
+
+/vendor/bundle
